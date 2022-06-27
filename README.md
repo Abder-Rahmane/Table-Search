@@ -1,2 +1,4 @@
-<h1>Table Search HTML/JS</h1>
+<h1>Table Search</h1>
+
+techno used : HTML/JS
 
